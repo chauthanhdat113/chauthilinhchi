@@ -1,0 +1,41 @@
+{
+    "profile": {
+        "name": "Linh Chi",
+        "avatar": "uploads\/avatar_68f0dff753eb3.png",
+        "image": "upload\/Gemini_Generated_Image_cxljgucxljgucxlj.png",
+        "description": "\"Thanh lý xe cũ giá tốt, thu mua xe đã qua sử dụng với giá cao. Liên hệ ngay!\"",
+        "username": "Châu Thị Linh Chi"
+    },
+    "links": [
+        {
+            "title": "zalo",
+            "url": "https:\/\/zalo.me\/0355136588",
+            "active": true
+        },
+        {
+            "title": "Facebook",
+            "url": "https:\/\/www.facebook.com\/linh.chi.37051",
+            "active": true
+        }
+    ],
+    "posts": [
+        {
+            "title": "1233",
+            "desc": "12311",
+            "url": "123312",
+            "image": "uploads\/post_68f0e14fecc5e.png"
+        },
+        {
+            "title": "12312312",
+            "desc": "1231231",
+            "url": "12312312",
+            "image": "uploads\/post_68f0e15673023.png"
+        },
+        {
+            "title": "xe ",
+            "desc": "mo ta",
+            "url": "https:\/\/www.facebook.com\/linh.chi.37051",
+            "image": "uploads\/post_68f0e17ebd716.png"
+        }
+    ]
+}
